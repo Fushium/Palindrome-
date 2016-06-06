@@ -6,7 +6,7 @@
 #include <iostream>
 using namespace std;
 
-const int MAX=50; // initialize max string size of 50 characters
+const int MAX=100; // initialize max string size of 50 characters
 
 typedef char QueueElement; // define QueueElement
 
